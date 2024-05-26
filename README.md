@@ -5,6 +5,8 @@ All code for my project was written using the Python language in the Google Coll
 environment. In all the files I needed to use the function "High ram" in the Google 
 Collab and in some I used GPU. 
 
+You can find more information about the project in the file: "Song lyrics generation by genre- report.pdf".
+
 Dateset source: https://www.kaggle.com/datasets/nikhilnayak123/5-million-song-lyrics-dataset  
 
 ## The order of running the files:
